@@ -16,7 +16,7 @@ Coloque na url /feed
 
 Instalar:
 
-Faça uma clone:
+Faça um clone:
 
 git clone https://github.com/fanmax/zf2_feed.git
 
