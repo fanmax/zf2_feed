@@ -1,5 +1,25 @@
-ZF2 Feed
+Gerador de Feed com Zend Framework 2
 ==============
-Sistema de demonstração do uso de consumir xml.
+Autor:
 
-Para acesso basta digitar /feed
+Rodrigo Santos Portilio programador em Web, Mobile e Desktop.
+
+Aplicativo:
+
+Usando o Zend Framework 2 para consumir um Feed de um site, blog...
+Neste exemplo consumimos um xml de um outro servidor
+
+
+Rodar:
+
+Coloque na url /feed
+
+Instalar:
+
+Faça uma clone:
+
+git clone https://github.com/fanmax/zf2_feed.git
+
+instale as dependências do composer:
+
+php composer.phar self-update php composer.phar install
